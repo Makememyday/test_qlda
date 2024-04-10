@@ -5,3 +5,4 @@ Nguyen Van Thai
 Luong Cong Thinh
 
 Change from nhom6 branch
+Change from develop, as a base
