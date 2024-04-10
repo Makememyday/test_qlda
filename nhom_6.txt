@@ -6,3 +6,5 @@ Luong Cong Thinh
 
 Change from nhom6 branch
 Change from develop, as a base
+
+Change from nhom6, at 1:18
